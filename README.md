@@ -32,6 +32,3 @@ Follow these steps to run the Wav2Lip project in Google Colab:
    <br>After the lip-syncing process is complete, the output video will be displayed within the Colab notebook. You can view the output directly in the notebook. If you wish to save the output video, follow the provided instructions to download it to your local machine.
 
 
-```text
-
-...
