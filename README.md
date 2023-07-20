@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="path_to_logo_or_image.png" alt="Project Logo or Image">
-</div>
+
 
 # <div align="center">Wav2Lip Google Colab</div>
 
